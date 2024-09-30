@@ -1,5 +1,5 @@
 # <div align="center">Warfarin Sensitivity Discrimination and Dosage Prediction Model
-## <div align="center"><b><a href="https://github.com/ZhijianWei/Machine_Learning/blob/main/READMEzh.md">English</a> | <a href="https://github.com/ZhijianWei/Machine_Learning/blob/main/READMEzh.md">简体中文</a></b></div>
+## <div align="center"><b><a href="https://github.com/ZhijianWei/Machine_Learning/blob/main/README.md">English</a> | <a href="https://github.com/ZhijianWei/Machine_Learning/blob/main/READMEzh.md">简体中文</a></b></div>
 
 #### Author: Wei Zhijian (Nanjing Agricultural University), if you have any questions, please feel free to contact me at ``18151936092@163.com``📧
 **The dataset is highly relevant to clinical pharmacy. The original data's indicators might be difficult for non-professionals to understand, but it is not necessary to fully comprehend them for practical machine learning. If there is enough interest, I will further improve the README.<br>
