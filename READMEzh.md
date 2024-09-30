@@ -2,7 +2,8 @@
 
 
 # <div align="center">华法林敏感性判别和剂量预测模型
-## <div align="center"><b><a href="[README.md](README.md)">English</a> | <a href=[READMEzh.md](READMEzh.md)>简体中文</a></b></div>
+## <div align="center"><b><a href="https://github.com/ZhijianWei/Machine_Learning/blob/main/README.md">English</a> | <a href="https://github.com/ZhijianWei/Machine_Learning/blob/main/READMEzh.md">简体中文</a></b></div>
+
 
 
 
